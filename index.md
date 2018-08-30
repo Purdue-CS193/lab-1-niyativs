@@ -1,4 +1,4 @@
-## Niyati's First CS193 Lab
+# Niyati's First CS193 Lab
 
 ### My favorite things about CS193
 -The teachers
